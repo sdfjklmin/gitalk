@@ -56,6 +56,10 @@ import Gitalk from 'gitalk'
 
 最后, 您可以选择如下的其中一种方式应用到页面：
 
+## Github 配置
+
+ User -> Settings -> Developer settings -> OAuth Apps 
+ 
 ### 方式1
 
 添加一个容器：
