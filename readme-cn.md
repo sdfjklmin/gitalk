@@ -110,7 +110,7 @@ import GitalkComponent from "gitalk/dist/gitalk-component";
 
 - **repo** `String` 
 
-  **必须**. GitHub repository.
+  **必须**. GitHub repository. 只是名称，不需要前缀
 
 - **owner** `String` 
 
